@@ -1,0 +1,51 @@
+Recipe: Mushroom Soup
+For 4 persons.
+
+cooking time: 39.0 minutes
+preparation time: 7.0 minutes
+total time: 46.0minutes
+
+
+--- Ingredients ---
+
+2.0 tabelspoons of oil
+2.0 medium leeks
+2.0 celery stalks
+0.25 tabelspoon of salt
+16.0 ounces of mushrooms
+2.0 tabelspoons of tamari
+0.25 cup of wine
+2.0 garlic cloves
+2.0 tabelspoons of fresh thyme leaves
+4.0 cups of broth
+1.0 pound of cauliflower
+1.0 teaspoon of dijon mustard
+1.0 teaspoon of balsamic vinegar
+
+
+--- Instructions ---
+
+Step. 1
+Get a Large Pot.
+Now add 2.0 tabelspoons of oil, 2.0 medium leeks, 2.0 celery stalks, 0.25 tabelspoon of salt.
+Cook everything on medium heat for 5 minutes.
+Now add 16.0 ounces of mushrooms.
+Cook everything on medium heat for 9 minutes.
+Now add 2.0 tabelspoons of tamari, 0.25 cup of wine, 2.0 garlic cloves, 2.0 tabelspoons of fresh thyme leaves.
+Cook everything on high heat for 5 minutes.
+Now add 4.0 cups of broth, 1.0 pound of cauliflower.
+Cook everything on low heat for 20 minutes.
+
+Step. 2
+Get a Blender.
+Transfer the Contents of the Large Pot into the Blender.
+Now add 1.0 teaspoon of dijon mustard, 1.0 teaspoon of balsamic vinegar.
+Now blend for 3 minutes until everything is smooth.
+
+Step. 3
+Get a Soup Plate.
+Transfer the Contents of the Blender into the Soup Plate.
+
+Enjoy!
+
+Process finished with exit code 0
